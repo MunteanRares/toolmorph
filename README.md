@@ -1,4 +1,5 @@
 # ToolMorph Stack
+ToolMorph is an all-in-one creative web toolkit built to simplify your image and content workflow. Whether you're a designer, marketer, or just someone who wants quick creative tools, ToolMorph is here to help.
 
 Full stack project with three main components:
 
