@@ -4,7 +4,7 @@
 
 ## 📦 Repositories
 
-- 🖥️ [Frontend](https://github.com/yourusername/toolmorph-frontend)
+- 🖥️ [Frontend](https://github.com/yourusername/toolmorph-ui)
 - 🧠 [Backend (C#)](https://github.com/yourusername/toolmorph-backend)
 - 🐍 [Python Service](https://github.com/yourusername/toolmorph-python-service)
 
