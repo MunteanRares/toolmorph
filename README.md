@@ -5,7 +5,7 @@
 ## 📦 Repositories
 
 - 🖥️ [Frontend](https://github.com/MunteanRares/toolmorph-ui)
-- 🧠 [Backend (C#)](https://github.com/MunteanRares/toolmorph-backend)
+- 🧠 [Backend (C#)](https://github.com/MunteanRares/toolmorph-api)
 - 🐍 [Python Service](https://github.com/MunteanRares/toolmorph-python-service)
 
 ---
