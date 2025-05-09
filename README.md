@@ -5,6 +5,7 @@
 # REQUIREMENTS
 `git clone --recurse-submodules https://github.com/your/repo.git`
 - Installing torch
+- https://pytorch.org/
 
 ## 📦 Repositories
 
