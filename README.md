@@ -4,8 +4,8 @@
 
 # REQUIREMENTS
 `git clone --recurse-submodules https://github.com/your/repo.git`
-- Installing torch
-- https://pytorch.org/
+- Installing torch: https://pytorch.org/
+- Cd to the directory 'U_2NET', run the train or inference process by command: python u2net_train.py or python u2net_test.py respectively. The 'model_name' in both files can be changed to 'u2net' or 'u2netp' for using different models.
 
 ## 📦 Repositories
 
