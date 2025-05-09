@@ -2,6 +2,10 @@
 
 **ToolMorph** is an all-in-one creative web toolkit built to simplify your image and content workflow. Whether you're a designer, marketer, or just someone who wants quick creative tools, ToolMorph is here to help.
 
+# REQUIREMENTS
+`git clone --recurse-submodules https://github.com/your/repo.git`
+- Installing torch
+
 ## 📦 Repositories
 
 - 🖥️ [Frontend](https://github.com/MunteanRares/toolmorph-ui)
